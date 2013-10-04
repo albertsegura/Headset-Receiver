@@ -14,5 +14,7 @@ OSH PARK
 --------
 [![Headset-Mainboard](http://uploads.oshpark.com/uploads/project/top_image/EPMXIzBB/i.png)  
  *Main board*](http://oshpark.com/shared_projects/1vYQ7i1L)
+ 
+ 
 [![Headset-Mainboard](http://uploads.oshpark.com/uploads/project/top_image/1vYQ7i1L/i.png)  
  *Bluetooth Module*](http://oshpark.com/shared_projects/EPMXIzBB)
